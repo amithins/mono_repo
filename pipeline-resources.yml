@@ -2,14 +2,14 @@ resources:
   - name: artifactory_monorepo_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
   - name: replicator_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -18,7 +18,7 @@ resources:
   - name: p2p_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -27,7 +27,7 @@ resources:
   - name: parent_pom_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -36,7 +36,7 @@ resources:
   - name: access_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -45,7 +45,7 @@ resources:
   - name: artifactory_pro_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -54,7 +54,7 @@ resources:
   - name: commons_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -63,7 +63,7 @@ resources:
   - name: artifactory_oss_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -72,7 +72,7 @@ resources:
   - name: binary_store_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -81,7 +81,7 @@ resources:
   - name: go_commons_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -90,7 +90,7 @@ resources:
   - name: router_grpc_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -99,7 +99,7 @@ resources:
   - name: access_grpc_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -108,7 +108,7 @@ resources:
   - name: access_go_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -117,7 +117,7 @@ resources:
   - name: router_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -126,7 +126,7 @@ resources:
   - name: package_indexer_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -135,7 +135,7 @@ resources:
   - name: metadata_java_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -144,7 +144,7 @@ resources:
   - name: metadata_go_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -153,7 +153,7 @@ resources:
   - name: metadata_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -162,7 +162,7 @@ resources:
   - name: nodejs_commons_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -171,7 +171,7 @@ resources:
   - name: access_nodejs_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -180,7 +180,7 @@ resources:
   - name: artifactory_nodejs_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -189,7 +189,7 @@ resources:
   - name: metadata_nodejs_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -198,7 +198,7 @@ resources:
   - name: event_grpc_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -207,7 +207,7 @@ resources:
   - name: event_service_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -216,7 +216,7 @@ resources:
   - name: event_service_e2e_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -225,7 +225,7 @@ resources:
   - name: event_java_client_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -234,7 +234,7 @@ resources:
   - name: artifactory_ci_scripts_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
@@ -243,7 +243,7 @@ resources:
   - name: artifactory_release_bitbucket
     type: GitRepo
     configuration:
-      path: neha-mishraa/pipelines
+      path: amithins/pipelines
       gitProvider: github_neha
       branches:
         include: ^{{gitBranch}}$
