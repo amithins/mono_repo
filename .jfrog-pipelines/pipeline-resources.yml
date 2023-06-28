@@ -3,14 +3,14 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
   - name: replicator_bitbucket
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -19,7 +19,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -28,7 +28,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -37,7 +37,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -46,7 +46,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -55,7 +55,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -64,7 +64,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -73,7 +73,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -82,7 +82,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -91,7 +91,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -100,7 +100,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -109,7 +109,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -118,7 +118,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -127,7 +127,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -136,7 +136,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -145,7 +145,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -154,7 +154,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -163,7 +163,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -172,7 +172,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -181,7 +181,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -190,7 +190,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -199,7 +199,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -208,7 +208,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -217,7 +217,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -226,7 +226,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -235,7 +235,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -244,7 +244,7 @@ resources:
     type: GitRepo
     configuration:
       path: amithins/pipelines
-      gitProvider: github_neha
+      gitProvider: github_amith
       branches:
         include: ^{{gitBranch}}$
       buildOn:
